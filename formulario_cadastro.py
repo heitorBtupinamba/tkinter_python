@@ -54,6 +54,4 @@ tk.Radiobutton(janela, text="Marketing", font=("Arial"), value=4,variable=radio_
 tk.Button(janela, text="Enviar",command=enviar).grid(row=9, column=1, pady=20)
 
 
-
-
 janela.mainloop()
